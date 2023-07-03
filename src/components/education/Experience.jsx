@@ -3,7 +3,7 @@ import { motion} from 'framer-motion';
 import  { experienceObj } from "../../constant/experience";
 import "./Education.css"
 
-const Details = ({ position,company,startDate,endDate,location,content })=> {
+const Details = ({ position,company,startDate,endDate,location, content, companyLink })=> {
   return (
     <motion.div className='Details'
       initial={{opacity: 0, rotate: -20, scale: 0}}
@@ -12,7 +12,7 @@ const Details = ({ position,company,startDate,endDate,location,content })=> {
       transition={{duration: 0.5}}
     >
       <div className="details_wrapper">
-        <div className='details_category'>{position}, <span className='details_company'>@{company}</span></div>
+        <div className='details_category'>{position}, <a href={companyLink} target="_blank" className='details_company'>@{company}</a></div>
         <div className='details_desc'>{startDate} - {endDate} | {location}</div>
         <div className="details_content">{content}</div>
       </div>
@@ -46,6 +46,7 @@ const Experience = () => {
               endDate={index.endDate} 
               location={index.location} 
               content={index.text}
+              companyLink={index.companyLink}
             />
           )
         }

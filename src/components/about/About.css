@@ -98,6 +98,7 @@
 }
 
 .about_f_btn {
+  text-decoration: none;
   display: flex;
   gap: 0.7rem;
   align-items: center;

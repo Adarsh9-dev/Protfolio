@@ -27,11 +27,11 @@ const Home = () => {
           <div className='Home'>
           <div className='home_container'>
             <div className='left_home'>
-              <motion.a href="https://www.instagram.com/adarshpriyadarshi.me"  target="_blank"className='left_home_img' 
+              <motion.a href="mailto:adarshpriyadarshi001@gmail.com"  target="_blank"className='left_home_img' 
                 whileHover={{scale: 1.1}}
                 whileTap={{scale: 0.9}}
               >
-                <i className='bx bxl-instagram left_home_img_edit' ></i>
+                <i class='bx bxs-envelope left_home_img_edit'></i>
               </motion.a>
               <motion.a href="https://www.linkedin.com/in/adarshpriyadarshi-7b58711a7"  target="_blank"className='left_home_img' 
                 whileHover={{scale: 1.1}}
@@ -105,11 +105,11 @@ const Home = () => {
           <div className='home_container'>
             <div className='home_inside_container'>
               <div className='left_home'>
-                <motion.a href="https://www.instagram.com/adarshpriyadarshi.me"  target="_blank" className='left_home_img' 
+                <motion.a href="mailto:adarshpriyadarshi001@gmail.com"  target="_blank" className='left_home_img' 
                   whileHover={{scale: 1.1}}
                   whileTap={{scale: 0.9}}
                 >
-                  <i className='bx bxl-instagram left_home_img_edit' ></i>
+                <i class='bx bxs-envelope left_home_img_edit'></i>
                 </motion.a>
 
                 <motion.a href="https://www.linkedin.com/in/adarshpriyadarshi-7b58711a7"  target="_blank" className='left_home_img' 

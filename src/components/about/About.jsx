@@ -47,7 +47,7 @@ const About = () => {
             Hello, my name is <b>Adarsh Priyadarshi</b>. I am a passionate Full Stack Developer from Cuttack, Odisha. My hobbies include going to the gym and playing chess. Thank you for taking the time to visit my website. Feel free to connect with me anytime.
           </div>
           <div className='about_f_right_cv'>
-            <a href='https://drive.google.com/file/d/1kBQFIgkMyQQKgSekI8rNj2fbdyJSnPfC/view?usp=sharing' className='btn about_f_btn' title='Download Resume' target="_blank">
+            <a href='https://drive.google.com/file/d/1gjhuScRwVr9tEm7w-ZePkw0gxwjh6kdM/view?usp=sharing' className='btn about_f_btn' title='Download Resume' target="_blank">
               <span className='about_f_btn_text'>Download CV</span>
               <img src={File} alt="Text file Image" className='about_f_btn_image'/>
             </a>
