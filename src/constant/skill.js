@@ -1,37 +1,49 @@
 export const skillsObj = [{
-    title: "HTML",
-    desc: "Basic"
-  },
-  {
-    title: "CSS",
-    desc: "Intermediate"
-  },
-  {
     title: "JavaScript",
-    desc: "Intermediate"
+    desc: "Advanced"
   },
   {
     title: "React",
+    desc: "Advanced"
+  },
+  {
+    title: "NextJS",
     desc: "Intermediate"
   },
   {
-    title: "Node",
+    title: "NodeJS",
+    desc: "Advanced"
+  },
+  {
+    title: "ExpressJS",
+    desc: "Advanced"
+  },
+  {
+    title: "MongoDB",
     desc: "Intermediate"
   },
   {
-    title: "MongoDb",
-    desc: "Basic"
+    title: "HTML",
+    desc: "Advanced"
+  },
+  {
+    title: "CSS",
+    desc: "Advanced"
+  },
+  {
+    title: "C++",
+    desc: "Intermediate"
+  },
+  {
+    title: "C",
+    desc: "Intermediate"
   },
   {
     title: "Git",
     desc: "Intermediate"
   },
   {
-    title: "C/C++",
-    desc: "Intermediate"
-  },
-  {
-    title: "Python",
+    title: "AWS",
     desc: "Basic"
   }
 ]

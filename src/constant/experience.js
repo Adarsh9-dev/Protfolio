@@ -1,19 +1,19 @@
 export const experienceObj = [
 {
-  position: "Backend Developer Trainee",
-  company: "FunctionUp",
-  startDate: "APRIL 2023",
+  position: "Full Stack Developer",
+  company: "Indian App Guy",
+  startDate: "August 2023",
   endDate: "Present",
-  location: "Bangelore, India.",
-  text: "Proficient in Javascript. Hands-on in ES6 and AWS Trained in Backend Development using Nodejs with Express and MongoDB. Understand caching fundamentals and hands-on with redis.",
-  companyLink: "https://functionup.org"
+  location: "Banglore, India",
+  text: "2+ year of experience in MERN Stack. Skilled in creating presentations through AI, developing Product Manager tools with MVP approach for SecondBrain (AI Assistant for Human). Improved TalkingPDF functionality. Successfully created backend of AskVideo.ai. Experienced in Chrome extension, Figma plugin, Telegram Bot, Calling Bot development. Learned SEO techniques, solved lots of bugs from different Products. First Employee of the Company, Hire People and Develop Team.",
+  companyLink: "https://indianappguy.com"
 },
 {
-  position: "Technical Support",
+  position: "Core Member",
   company: "Glucian",
-  startDate: "Augest 2021",
-  endDate: "Present",
-  location: "Bhubaneswar, India.",
-  text: "Design PPTs and other basic Designs, Some Background  Business works",
+  startDate: "August 2021",
+  endDate: "March 2023",
+  location: "Bhubaneswar, India",
+  text: "Created Designs of PPTs, Logo, Photoshop Designs, Poster. Worked on Business Development, Teaching Assistance and Software Development.",
   companyLink: "https://glucian.com"
 }]

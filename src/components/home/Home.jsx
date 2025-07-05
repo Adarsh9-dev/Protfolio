@@ -3,7 +3,7 @@ import "./Home.css";
 import Hand from "../../assets/hand.svg";
 import Send from "../../assets/send.svg";
 import Scroll from "../../assets/scroll.svg";
-import ProfileImage from "../../assets/profile2.png";
+import ProfileImage from "../../assets/Profile4.webp";
 import { motion } from "framer-motion";
 
 const Home = () => {

@@ -1,7 +1,7 @@
 import React from 'react';
 import "./About.css";
 import File from "../../assets/files.svg";
-import Profile from "../../assets/profile3.png";
+import Profile from "../../assets/Profile4.webp";
 import { motion } from "framer-motion";
 
 const About = () => {
@@ -28,13 +28,13 @@ const About = () => {
             <div className='about_f_right_show_in'>
               <i className="uil uil-award-alt about_f_right_show_flex"></i>
               <span className='about_f_right_show_in_title'>Experience</span>
-              <span className='about_f_right_show_in_total'>0.4 Years</span>
+              <span className='about_f_right_show_in_total'>1+ Years</span>
             </div>
 
             <div className='about_f_right_show_in'>
               <i className="uil uil-shield about_f_right_show_flex"></i>
               <span className='about_f_right_show_in_title'>Completed</span>
-              <span className='about_f_right_show_in_total'>10+ Projects</span>
+              <span className='about_f_right_show_in_total'>15+ Projects</span>
             </div>
 
             <div className='about_f_right_show_in'>
@@ -44,10 +44,10 @@ const About = () => {
             </div> 
           </div>
           <div className='about_f_right_text'>
-            Hello, my name is <b>Adarsh Priyadarshi</b>. I am a passionate Full Stack Developer from Cuttack, Odisha. My hobbies include going to the gym and playing chess. Thank you for taking the time to visit my website. Feel free to connect with me anytime.
+            Hello, I'm <b>Adarsh Priyadarshi</b>, a passionate Full Stack Developer with 1+ years of experience in MERN Stack development. I specialize in creating innovative solutions using modern technologies like React, NextJS, NodeJS, and MongoDB. Currently working at Indian App Guy, I've developed various applications including AI-powered tools, Chrome extensions, and scalable web applications. I'm also the proud recipient of the National Merit-cum-Means Scholarship (NMMS) and enjoy contributing to open-source projects.
           </div>
           <div className='about_f_right_cv'>
-            <a href='https://drive.google.com/file/d/1gjhuScRwVr9tEm7w-ZePkw0gxwjh6kdM/view?usp=sharing' className='btn about_f_btn' title='Download Resume' target="_blank">
+            <a href='https://drive.google.com/file/d/1e_jVjGQcnkpCy-jvA7CBPjC_F5kQxhlP/view?usp=sharing' className='btn about_f_btn' title='Download Resume' target="_blank">
               <span className='about_f_btn_text'>Download CV</span>
               <img src={File} alt="Text file Image" className='about_f_btn_image'/>
             </a>

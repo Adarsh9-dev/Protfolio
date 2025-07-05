@@ -98,7 +98,7 @@ const Contact = () => {
                   <img src={Send} alt="Send image" className='send_hello' />
                 </>:
                 <ClipLoader 
-                  color={'#fff'}
+                  color={'#fff'}  
                   loading={'true'}
                   size={"25px"}
                 />

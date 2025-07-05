@@ -11,9 +11,9 @@ const Footer = () => {
       </div>
       
       <div className='footer_2nd'>
-        <span className='footer_2nd_quote'> "Explorer, Quick learner, Critical thinking & Tech lover" </span>
-        <span className='footer_2nd_quote1'> "Explorer, Quick learner & Tech lover" </span>
-        <span className='footer_2nd_quote2'> "Explorer & Quick learner" </span>
+        <span className='footer_2nd_quote'> "Full Stack Developer | AI Enthusiast | Problem Solver" </span>
+        <span className='footer_2nd_quote1'> "Full Stack Developer | AI Enthusiast" </span>
+        <span className='footer_2nd_quote2'> "Full Stack Developer" </span>
       </div>
       
       <div className='footer_3rd'>
